@@ -38,8 +38,6 @@ thunderclap+atm26 at cl.cam.ac.uk
 
 ## Additional Prerequisite
 
-- Ubuntu on Intel PC with over 10GB free disk area  
-  To compile kernel needs below,  
 ```
   # apt install bison flex libncurses-dev bc  
 ```
