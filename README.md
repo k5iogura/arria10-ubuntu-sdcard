@@ -30,8 +30,9 @@ thunderclap+atm26 at cl.cam.ac.uk
 # Tracing arria10 soc ubuntu github
 
 ## On RaspberryPi3 Model B+
+Instead of Intel PC i use RaspberryPi3 with Rasbian strech for Host machine. Download repo. and work on it,  
 ```
-  $ git clone https://github.com/tmarkettos/arria10-ubuntu-sdcard
+  $ git clone https://github.com/k5iogura/arria10-ubuntu-sdcard
 
   $ cd arria10-ubuntu-sdcard
 ```
