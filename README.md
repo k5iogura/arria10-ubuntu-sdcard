@@ -8,7 +8,7 @@ process.
 
 ## Prerequisites
 
-* A Linux Intel machine with the Quartus tools installed and on your PATH (tested with Ubuntu 16.04/18.04 and Quartus
+* A **Linux Intel machine** with the **Quartus** tools installed and on your PATH (tested with Ubuntu 16.04/18.04 and Quartus
   18.1).  In particular, the 'Intel SoC FPGA Embedded Development Suite Standard
   Edition'.  A licence for Quartus should not be necessary if you are not
   resynthesising the FPGA bitfiles.
