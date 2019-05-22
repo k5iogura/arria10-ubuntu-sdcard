@@ -44,7 +44,7 @@ thunderclap+atm26 at cl.cam.ac.uk
   # apt install bison flex libncurses-dev bc  
 ```
 
--Flow
+- Flow  
 ```
 ubuntu :
         $SCRIPT_PATH/fetch_ubuntu.sh
