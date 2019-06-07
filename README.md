@@ -132,4 +132,6 @@ make_sdimage.py:
 /dev/loop0p2 :partition No.2 : ext3 1500MB : rootfs
 /dev/loop0p3 :partition No.3 : A2     10MB : preloader image
 ```
+## [README_Replace_RootFS](README_Replace_RootFS.md)  
+
 **K.O 22.May,2019**  
